@@ -8,14 +8,3 @@
 //       s="axbxa" t="aaaxb" ans = 1
 
  
-#include<bits/stdc++.h> 
-using namespace std;
-int main(){
-    string s;
-    string t;
-    cin>>s;
-    cin.ignore();
-    cin>>t;
-    map<int> mpt;
-    map<int> mpt;
-}

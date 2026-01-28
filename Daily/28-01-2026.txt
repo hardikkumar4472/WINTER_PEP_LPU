@@ -28,3 +28,7 @@ int main()
 
     return 0;
 }
+
+
+#Problem 2: CSES-> https://cses.fi/problemset/task/1620
+

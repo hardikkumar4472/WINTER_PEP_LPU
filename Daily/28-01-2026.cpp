@@ -122,3 +122,18 @@ int main()
     cout<<"minimum time to produce: "<<t<<" products is: "<<ans<<'\n';
     return 0;
 }
+
+/*
+Problem 3: You want n walls to be painted it took xi seconds to paint the ith wall. what is the minimum painter that you should hired if you want all the wall to be painted in T seconds. a single painter can paint only contigous wall and one painter can't paint any wall partially.
+
+ex1: n=5, x[]={5,4,3,2,6}, T=8
+output: 3
+
+*/
+
+
+/*
+Problem 4: Leetcode 1482
+BruteForce Approach: O(n*n)=> creating m subarray of k length in how much days.
+Optimal=> Binary search
+*/

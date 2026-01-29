@@ -54,5 +54,6 @@ int main()
 /*
 Problem 5: https://leetcode.com/problems/subarray-product-less-than-k/description/
 Problem 6: https://leetcode.com/problems/count-the-number-of-good-subarrays/description/ 
+solution of problem 6: https://leetcode.com/problems/count-the-number-of-good-subarrays/submissions/1630052172/
 
 */
